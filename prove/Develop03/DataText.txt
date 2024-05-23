@@ -1,0 +1,4 @@
+1;John;3;16;16;For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.
+2;John;14;16;1;But the Helper, the Holy Spirit, whom the Father will send in my name, he will teach you all things and bring to your remembrance all that I have said to you.
+3;James;1;5;6;If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him. But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.
+4;Moroni;7;33;1;And Christ hath said: If ye will have faith in me ye shall have power to do whatsoever thing is expedient in me.
