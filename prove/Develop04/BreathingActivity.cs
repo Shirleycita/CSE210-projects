@@ -2,7 +2,7 @@ using System;
 
 public class BreathingActivity : Activity
 {
-    // Attributes 
+
     private string _message1 = "Breathe in...";
     private string _message2 = "Now breathe out...";
     private string _description = "This activity will help you relax by walking your through breathing in and out slowly. Clear your mind and focus on your breathing.";

@@ -2,7 +2,7 @@ using System;
 
 public class Choices
 {
-    // Attributes 
+
     private string _menu = $@"
 Menu Options
 ===========================
